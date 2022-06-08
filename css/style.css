@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.header__settings {
+    margin-bottom: 50px;
+}
+
+.header__btn {
+    padding: 25px 50px;
+    font-size: 20px;
+}
+
+.header__title {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.header__settings {
+    color: #fff;
+}
+.header__btn {
+    border-radius: 10px;
+}
